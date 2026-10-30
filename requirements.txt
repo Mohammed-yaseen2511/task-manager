@@ -1,7 +1,8 @@
 flask
+flask-login
+flask-wtf
+flask-sqlalchemy
 pymysql
 cryptography
-python-dotenv
 gunicorn
-flask
-mysql-connector-python
+pytest
